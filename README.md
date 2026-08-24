@@ -12,7 +12,7 @@ To extract it, you can:
 
 1. **Download directly** — Click the download button on GitHub or use:
    ```bash
-   wget https://github.com/dmythlenz/MERIDIAN/raw/main/Aether-meridian.zipp
+   wget https://github.com/dmythlenz/MERIDIAN/raw/main/Aether-meridian.zip
    ```
 
 2. **Extract locally**:

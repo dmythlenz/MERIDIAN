@@ -1,6 +1,6 @@
 # MERIDIAN
 the most advance pixels
-The zip file **Aether-meridian.zipp** is stored in your MERIDIAN repository at:
+The zip file **Aether-meridian.zip** is stored in your MERIDIAN repository at:
 
 **Download URL:** https://github.com/dmythlenz/MERIDIAN/blob/main/Aether-meridian.zip
 
